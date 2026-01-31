@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-iter-column-entries",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Create an iterator which returns [index, column] pairs for each column in a matrix (or stack of matrices).",
   "license": "Apache-2.0",
   "author": {
